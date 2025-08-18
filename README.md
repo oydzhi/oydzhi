@@ -6,7 +6,7 @@ I'm a passionate **Python Developer** and a final-year student at Perm State Uni
 
 ## 💻 Tech Stack
 
-- **Languages:** Python, JavaScript, HTML, CSS
+- **Languages:** Python, JavaScript, HTML, CSS, SQL
 - **Frameworks/Libraries:** PyQt5
 
 ---
