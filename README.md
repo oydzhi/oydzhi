@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm oydzhi! 👋
+
+I'm a passionate **Python Developer** and a final-year student at Perm State University, graduating with a high atestat score. I love combining code and creativity to build meaningful projects and solve real-world problems.
+
+---
+
+## 💻 Tech Stack
+
+- **Languages:** Python, JavaScript, HTML, CSS
+- **Frameworks/Libraries:** PyQt5
+
+---
+
+## 🚀 Featured Projects
+
+- [**DBEditor**](https://github.com/oydzhi/DBEditor):  
+  A powerful and intuitive database editor designed to streamline your workflow.
+
+- [**SmartNotes**](https://github.com/oydzhi/SmartNotes):  
+  An intelligent, user-friendly note-taking app to organize your thoughts and ideas.
+
+---
+
+## 📚 About Me
+
+- 🎓 Student at Perm State University (final year)
+- 🏅 High atestat score
+- 🏋️‍♂️ Gym enthusiast | 🏐 Volleyball player | 📖 Avid reader
+
+---
 
 <!--
-**oydzhi/oydzhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Feel free to connect or check out my work!
 -->
+
+Thanks for stopping by! 😊
+
