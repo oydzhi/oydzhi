@@ -21,6 +21,12 @@ I'm a passionate **Python Developer** and a final-year student at Perm State Uni
 
 ---
 
+## 🏆 Certificates
+
+- [CodeRun Winter Challenge — Winner (PDF)](certificates/CodeRun%20серт.pdf)
+
+---
+
 ## 📚 About Me
 
 - 🎓 Student at Perm State University (final year)
