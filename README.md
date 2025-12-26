@@ -23,7 +23,7 @@ I'm a passionate **Python Developer** and a final-year student at Perm State Uni
 
 ## 🏆 Certificates
 
-- [CodeRun Winter Challenge — Winner](https://github.com/oydzhi/certificates/blob/ece3501e7454a28a719fa3c27238d96c9ef8de42/CodeRun_%D1%81%D0%B5%D1%80%D1%82.pdf)
+- [**CodeRun Winter Challenge — Winner**](https://github.com/oydzhi/certificates/blob/ece3501e7454a28a719fa3c27238d96c9ef8de42/CodeRun_%D1%81%D0%B5%D1%80%D1%82.pdf)
 
 ---
 
